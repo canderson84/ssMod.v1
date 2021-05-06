@@ -7,6 +7,7 @@ original version
 For SBM code see https://github.com/canderson84/SBM.v1
 
 See
+
 Anderson et. al, Implementing sequence-based antigenic distance calculation into immunological shape space model,  BMC Bioinformatics 2020
 
 Anderson et. al, Antigenic cartography of H1N1 influenza viruses using sequence-based antigenic distance calculation, BMC Bioinformatics 2018
